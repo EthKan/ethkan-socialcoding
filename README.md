@@ -2,6 +2,8 @@
 
 [Original Google Doc](https://docs.google.com/document/d/18stf97RkHYhWFG_AFmt0a1WYPvs2Mo3jUheJaUJYaB8/edit?ts=5b1ee961)
 
+https://github.com/S0cialC0ding/social-coding
+
 The social coding circle is a unique circle, such that it funds
 some external technological projects to Giveth, yet ones that are
 synergetic that would ultimately be useful. The projects are funded
